@@ -1,27 +1,282 @@
-<h1 align="center">Hi 👋, I'm FIROJ BARIK</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning (AI/ML) developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firojbarik&label=Profile%20views&color=0e75b6&style=flat" alt="firojbarik" /> </p>
+# 👋 Hi, I'm **FIROJ BARIK**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firojbarik" alt="firojbarik" /></a> </p>
+### 🤖 AI/ML Developer · Data & ML Engineer · Builder
 
-- 🔭 I’m currently working on [NER-Nav](https://github.com/Firojbarik/NER-Nav)
-
-- 🌱 I’m currently learning **Automation**
-
-- 💬 Ask me about **AI/ML**
-
-- 📫 How to reach me **firojbarik705@gmail.com**
-
-- ⚡ Fun fact **EVERYTHING IS FUNNY**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/Firojbarik">
+    <img src="https://img.shields.io/github/followers/Firojbarik?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Firojbarik?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Firojbarik?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=firojbarik&label=Profile%20Views&style=for-the-badge" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/Firojbarik">
+    <img src="https://img.shields.io/badge/GitHub-Firojbarik-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:firojbarik705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firojbarik&show_icons=true&locale=en&layout=compact" alt="firojbarik" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firojbarik&" alt="firojbarik" /></p>
+---
+
+## 🧠 About Me
+
+I'm **Firoj Barik**, an AI/ML developer focused on building practical, data-driven systems.
+
+I enjoy working across the complete machine learning lifecycle:
+
+**Data → Feature Engineering → Machine Learning → Evaluation → Deployment → Production**
+
+My current interests include:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Engineering & Analytics
+* 🧠 Predictive Modeling
+* 🌎 Geospatial Intelligence
+* 🚀 ML Systems & Deployment
+* ⚙️ Automation
+* 🏗️ Production-grade software systems
+
+> **My goal:** turn real-world problems into intelligent, scalable software.
+
+---
+
+## 🚀 What I'm Currently Building
+
+### 🛰️ NER-Nav
+
+**AI-Based Smart Logistics & Accessibility Intelligence Platform for the North Eastern Region of India**
+
+NER-Nav focuses on using AI, geospatial intelligence and data engineering to help understand logistics risks and improve decision-making.
+
+**Current focus areas:**
+
+* 🚚 Shipment delay prediction
+* 🌧️ Weather risk intelligence
+* 🗺️ Geospatial analysis
+* 🛣️ Route intelligence
+* 📊 Feature engineering
+* 🤖 Machine learning pipelines
+* ⚡ FastAPI-based ML services
+* 🗄️ PostgreSQL / PostGIS
+* 📈 Analytics & visualization
+
+🔗 **Project:**
+https://github.com/Firojbarik/NER-Nav
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Data Engineering
+ML Systems
+MLOps
+Automation
+Geospatial AI
+Production Python
+Cloud & Deployment
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+**Libraries & Tools**
+
+`NumPy` · `Pandas` · `Scikit-learn` · `PyTorch` · `TensorFlow` · `OpenCV` · `Seaborn`
+
+---
+
+### 🐍 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+---
+
+### 🌐 Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+</p>
+
+`REST APIs` · `API Design` · `Authentication` · `Backend Architecture`
+
+---
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+`PostgreSQL` · `PostGIS` · `MySQL` · `MongoDB` · `Redis` · `SQL`
+
+---
+
+### ☁️ Cloud / DevOps / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github" />
+</p>
+
+`Docker` · `Kubernetes` · `AWS` · `GCP` · `Linux` · `Git` · `GitHub`
+
+---
+
+### 📊 Data / Monitoring / Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,postman,figma" />
+</p>
+
+`Jupyter` · `VS Code` · `Postman` · `Grafana` · `GitHub Actions`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firojbarik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firojbarik&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=firojbarik&theme=transparent&hide_border=true" alt="Firoj Barik GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<div align="center">
+
+[![Firoj Barik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=firojbarik\&theme=github-compact\&hide_border=true)](https://github.com/Firojbarik)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=firojbarik&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Firojbarik/NER-Nav">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=firojbarik&repo=NER-Nav&hide_border=true&theme=transparent" />
+</a>
+
+<!-- Add your other strongest repositories here -->
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Firojbarik/Firojbarik/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📊 My GitHub Activity
+
+<div align="center">
+
+| Metric              | Status                              |
+| ------------------- | ----------------------------------- |
+| 🧑‍💻 Developer     | AI / ML                             |
+| 🤖 Primary Focus    | Artificial Intelligence             |
+| 📊 Data             | Machine Learning & Data Engineering |
+| 🛰️ Current Project | NER-Nav                             |
+| ⚙️ Learning         | Automation & ML Systems             |
+| 🌍 Location         | India                               |
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+[████████████████░░░░] AI / ML Engineering
+[██████████████░░░░░░] Data Engineering
+[██████████████░░░░░░] MLOps
+[████████████░░░░░░░░] Cloud Engineering
+[██████████░░░░░░░░░░] Open Source
+```
+
+> Building consistently. Learning deeply. Shipping real systems.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Firojbarik">
+<img src="https://img.shields.io/badge/GitHub-Firojbarik-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:firojbarik705@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-firojbarik705%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Build something useful. Learn something difficult. Repeat."*
+
+⭐ If you find my projects useful, consider giving them a star!
+
+</div>
